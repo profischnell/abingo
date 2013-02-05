@@ -7,7 +7,7 @@ One line to track conversion.
 For usage notes, see: [http://www.bingocardcreator.com/abingo](http://www.bingocardcreator.com/abingo)
 
 Forked from the original distribution for easier integration into rails at [Toptranslation GmbH Übersetzungsagentur](https://www.toptranslation.com/).
-
+[Profi-Schnell Übersetzungsagentur](http://www.profischnell.com).
 Installation instructions are below usage examples.
 
 Key default features:
